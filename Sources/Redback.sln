@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redback", "Redback\Redback.csproj", "{FFF80D75-2D95-441B-976A-AF1DCF6D9760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF80D75-2D95-441B-976A-AF1DCF6D9760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF80D75-2D95-441B-976A-AF1DCF6D9760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF80D75-2D95-441B-976A-AF1DCF6D9760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF80D75-2D95-441B-976A-AF1DCF6D9760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
